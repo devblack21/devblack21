@@ -17,7 +17,7 @@
 ## Certifications
 
 <div style="display: inline_block"><br>
-  <a alt="AWS Certified Cloud Practitioner (CLF)link" href="https://www.credly.com/badges/d5c5d23e-a2f0-4469-8cbb-03bf119aa292/public_url" >
+  <a alt="AWS Certified Cloud Practitioner (CLF) link" href="https://www.credly.com/badges/d5c5d23e-a2f0-4469-8cbb-03bf119aa292/public_url" >
     <img src="https://images.credly.com/size/110x110/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" height="80px" width="80px" />
   </a>
 
