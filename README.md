@@ -1,12 +1,20 @@
 ### Hi there 👋
 
-## Languages and Tools
+## Stacks
 
-<div style="display: inline_block"><br>
+<div style="display: inline_block">
+  
+  ### Languages
 
   <img width="48" height="48" src="https://img.icons8.com/color/48/java-coffee-cup-logo--v1.png" alt="java-coffee-cup-logo--v1"/>
   <img width="48" height="48" src="https://img.icons8.com/color/48/python--v1.png" alt="python--v1"/>
+
+  ### Cloud
+
   <img width="48" height="48" src="https://img.icons8.com/color/48/000000/amazon-web-services.png" alt="amazon-web-services"/>
+
+  ### Tools
+
   <img width="48" height="48" src="https://img.icons8.com/color/48/terraform.png" alt="terraform"/>
   <img src="https://img.icons8.com/color/48/000000/git.png"/>
   <img src="https://img.icons8.com/color/48/000000/linux--v2.png"/>
