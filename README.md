@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-## Stacks
+## Principal Stack
 
 <div style="display: inline_block">
   
@@ -11,7 +11,13 @@
 
   ### Cloud
 
-  <img width="48" height="48" src="https://img.icons8.com/color/48/000000/amazon-web-services.png" alt="amazon-web-services"/>
+  <img width="48" height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/AWS_Simple_Icons_AWS_Cloud.svg/1024px-AWS_Simple_Icons_AWS_Cloud.svg.png" alt="amazon-web-services"/>
+
+  ### Database
+
+  <img width="48" height="48" src="https://www.paulligocki.com/wp-content/uploads/2022/03/MySQLLogo.png" alt="MySQL"/>
+  <img width="48" height="48" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/postgresql_src_logo_icon_170834.png" alt="PostgreSQL" />
+  <img width="48" height="48" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/redis_plain_logo_icon_146366.png" alt="Redis"/>
 
   ### Tools
 
