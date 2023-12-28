@@ -17,6 +17,11 @@
 ## Certifications
 
 <div style="display: inline_block"><br>
+
+ <a alt="AWS Certified Solutions Architect – Associate link" href="https://www.credly.com/badges/f904369d-8927-438e-8b2f-287ed0a3beda/public_url" >
+    <img src="https://images.credly.com/size/110x110/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png" height="80px" width="80px" />
+  </a>
+  
   <a alt="AWS Certified Cloud Practitioner (CLF) link" href="https://www.credly.com/badges/d5c5d23e-a2f0-4469-8cbb-03bf119aa292/public_url" >
     <img src="https://images.credly.com/size/110x110/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" height="80px" width="80px" />
   </a>
