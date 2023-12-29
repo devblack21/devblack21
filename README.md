@@ -56,14 +56,16 @@ Now I would like to show some of my main skills and professional certifications
   <img width="48" height="48" src="https://www.trisotech.com/wp-content/uploads/kafka-icon.png" alt="Kafka"/>
   <img width="48" height="48" src="https://i0.wp.com/acemq.com/wp-content/uploads/2019/11/rabbitmq2.png?resize=1080%2C1082&ssl=1" alt="RabbitMQ"/>
 
-  ### Tools
+  ### Others
 
   <img width="48" height="48" src="https://wiki.hornbill.com/images/7/70/Docker_logo.png" alt="Docker"/>
+  <img width="48" height="48" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Kubernetes_logo_without_workmark.svg/2109px-Kubernetes_logo_without_workmark.svg.png"/>
   <img width="48" height="48" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/grafana_logo_icon_171048.png" alt="Grafana"/>
   <img width="48" height="48" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Prometheus_software_logo.svg/2066px-Prometheus_software_logo.svg.png" alt="Prometheus"/>
   <img width="48" height="48" src="https://img.icons8.com/color/48/terraform.png" alt="Terraform"/>
-  <img src="https://img.icons8.com/color/48/000000/git.png"/>
-  <img src="https://img.icons8.com/color/48/000000/linux--v2.png"/>
+  <img width="48" height="48" src="https://img.icons8.com/color/48/000000/git.png"/>
+  <img width="48" height="48" src="https://www.jaegertracing.io/img/jaeger-icon-color.png"/>
+  <img width="48" height="48" src="https://img.icons8.com/color/48/000000/linux--v2.png"/>
   
 </div>
 
