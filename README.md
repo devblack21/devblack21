@@ -49,6 +49,7 @@ Now I would like to show some of my main skills and professional certifications
 
   <img width="48" height="48" src="https://www.paulligocki.com/wp-content/uploads/2022/03/MySQLLogo.png" alt="MySQL"/>
   <img width="48" height="48" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/postgresql_src_logo_icon_170834.png" alt="PostgreSQL" />
+  <img width="50" height="48" src="https://upload.wikimedia.org/wikipedia/commons/f/fd/DynamoDB.png" alt="DynamoDB AWS"/>
   <img width="48" height="48" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/redis_plain_logo_icon_146366.png" alt="Redis"/>
 
   ### Messaging
