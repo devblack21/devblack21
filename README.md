@@ -1,6 +1,32 @@
 ### Hi there 👋
 
-## Principal Stack
+Hi, I'm a huge technology enthusiast and this is my github profile. Here you will find some of my personal projects and some external links that will take you to my networks
+
+Now I would like to show some of my main skills and professional certifications
+
+## Certifications
+
+<div style="display: inline_block"><br>
+
+ <a alt="AWS Certified Solutions Architect – Associate link" href="https://www.credly.com/badges/f904369d-8927-438e-8b2f-287ed0a3beda/public_url" >
+    <img src="https://images.credly.com/size/110x110/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png" height="80px" width="80px" />
+  </a>
+  
+  <a alt="AWS Certified Cloud Practitioner (CLF) link" href="https://www.credly.com/badges/d5c5d23e-a2f0-4469-8cbb-03bf119aa292/public_url" >
+    <img src="https://images.credly.com/size/110x110/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" height="80px" width="80px" />
+  </a>
+
+  <a alt="AWS Academy Graduate - AWS Academy Cloud Developing link" href="https://www.credly.com/badges/4e6390df-5445-4716-b2c7-081d91e05410/public_url" >
+    <img src="https://images.credly.com/size/110x110/images/119182cf-ca68-495a-a415-bff62dfdcc7e/image.png" height="80px" width="80px" />
+  </a>
+ 
+   <a alt="ZUP Security Champions link" href="http://badges.com.br/share/528cf8fa3b49a15721e863be3489592f.php?a=4452" >
+    <img src="https://www.brasilopenbadge.com.br/badge/4452.png?nocache=430962062" height="80px" width="80px" />
+  </a>
+</div>
+
+
+## Key skills
 
 <div style="display: inline_block">
   
@@ -42,30 +68,6 @@
 </div>
 
 <br />
-
-## Certifications
-
-<div style="display: inline_block"><br>
-
- <a alt="AWS Certified Solutions Architect – Associate link" href="https://www.credly.com/badges/f904369d-8927-438e-8b2f-287ed0a3beda/public_url" >
-    <img src="https://images.credly.com/size/110x110/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png" height="80px" width="80px" />
-  </a>
-  
-  <a alt="AWS Certified Cloud Practitioner (CLF) link" href="https://www.credly.com/badges/d5c5d23e-a2f0-4469-8cbb-03bf119aa292/public_url" >
-    <img src="https://images.credly.com/size/110x110/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" height="80px" width="80px" />
-  </a>
-
-  <a alt="AWS Academy Graduate - AWS Academy Cloud Developing link" href="https://www.credly.com/badges/4e6390df-5445-4716-b2c7-081d91e05410/public_url" >
-    <img src="https://images.credly.com/size/110x110/images/119182cf-ca68-495a-a415-bff62dfdcc7e/image.png" height="80px" width="80px" />
-  </a>
- 
-   <a alt="ZUP Security Champions link" href="http://badges.com.br/share/528cf8fa3b49a15721e863be3489592f.php?a=4452" >
-    <img src="https://www.brasilopenbadge.com.br/badge/4452.png?nocache=430962062" height="80px" width="80px" />
-  </a>
-
-  
-  
-</div>
 <br />
 <br />
 
